@@ -1,0 +1,26 @@
+{
+  "esm/perpetual-calendar.js": {
+    "bundled": 8359,
+    "minified": 3768,
+    "gzipped": 1963,
+    "treeshaked": {
+      "rollup": {
+        "code": 77,
+        "import_statements": 0
+      },
+      "webpack": {
+        "code": 1221
+      }
+    }
+  },
+  "umd/perpetual-calendar.js": {
+    "bundled": 9172,
+    "minified": 3209,
+    "gzipped": 1869
+  },
+  "umd/perpetual-calendar.min.js": {
+    "bundled": 9172,
+    "minified": 3209,
+    "gzipped": 1869
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "presets": [["@babel/env", { "loose": true }]],
+  "plugins": [
+    "dev-expression",
+    ["@babel/proposal-class-properties", { "loose": true }]
+  ]
+}
